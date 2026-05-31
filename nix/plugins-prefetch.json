@@ -3101,12 +3101,12 @@
     "url": "https://github.com/Incognitux/dms-format-color-picker"
   },
   "fullscreenPowerMenu": {
-    "date": "2026-05-10T17:29:32+05:30",
+    "date": "2026-05-31T02:02:54+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-xiImowsZMolKoTeS6x+o2YBhhZtEDn5bpCVk/y9+Qxk=",
+    "hash": "sha256-9Ten8FsLPEziot7Ww/BiSvxWE+4XJ23va96ZT4diOyI=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -3138,12 +3138,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-Fullscreen_Power_Menu/refs/heads/main/assets/Main_UI.png",
       "settings": "./PowerMenuSettings.qml",
       "type": "daemon",
-      "version": "1.0.5"
+      "version": "1.0.6"
     },
-    "path": "/nix/store/0k7niw48wffhpm8j6f6ybg6grqav5wsi-DMS-Fullscreen_Power_Menu",
-    "rev": "a4447e824472abf5c63b8a3511b4da823072f076",
+    "path": "/nix/store/pka9d4g4h9v8w7zifdjcj64bm5dilzmd-DMS-Fullscreen_Power_Menu",
+    "rev": "c840e9375cef65d2e0de4f0d122dfedc2c69fd6a",
     "rootDir": "",
-    "sha256": "06a3gqpzyr15lidpw3j4kf2n306rm0gyp4ipl558jchr1fijc8n6",
+    "sha256": "08ivca3lz6fydgpns9qpxq9mdz2acbqc7mnylbi4qg0bbgqafdzm",
     "url": "https://github.com/JDKamalakar/DMS-Fullscreen_Power_Menu"
   },
   "gameControllerBattery": {
@@ -4445,12 +4445,12 @@
     "url": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor"
   },
   "obsidianSearch": {
-    "date": "2026-05-11T06:30:42+02:00",
+    "date": "2026-05-30T17:53:44+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-O3/UsObr1G5ZkObLZcTgC5ynJACsFGfV8OCEjrMfWV0=",
+    "hash": "sha256-+rcLLMLW5ts54DB/iPnWprH0Pmv5g3GK2wExGYzwiLc=",
     "leaveDotGit": false,
     "meta": {
       "author": "kmf",
@@ -4472,12 +4472,12 @@
       "name": "Obsidian Vault Search",
       "repo": "https://github.com/kmf/dms-obsidian-search",
       "screenshot": "https://github.com/kmf/dms-obsidian-search/blob/main/Screenshot.png?raw=true",
-      "version": "0.11.0"
+      "version": "0.12.0"
     },
-    "path": "/nix/store/pzq8qvxl8vkhgj7rffzrwjpi79m7rxpx-dms-obsidian-search",
-    "rev": "ecaa6963be10b0ff0adb61c5f38dbd7f3b96d2fc",
+    "path": "/nix/store/f42hdzkh53zpbsgm3pcy61awavp3al57-dms-obsidian-search",
+    "rev": "f3fcad22c1829b908b5a43bbb7bef7c9da8d4eb3",
     "rootDir": "",
-    "sha256": "0par3yrqx170y3anf55c00jag70bw326bjz6j1cnxm7bwsqd8zrv",
+    "sha256": "1dw8y261jc81vf5730zrdczg9cd6svwqhzrhw0wxprnnq8n0pdzs",
     "url": "https://github.com/kmf/dms-obsidian-search"
   },
   "ocrScanner": {
@@ -4880,12 +4880,12 @@
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickTote": {
-    "date": "2026-05-12T22:39:09+05:30",
+    "date": "2026-05-31T02:10:03+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-DV2da32Z6xaX5mbC3ns3YPBR9Myps4RwYhKDW60G01g=",
+    "hash": "sha256-p4/aDJNE1bgCv/fyXyZ8T3EawmvalzHLJGKVqLcwkKA=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -4916,12 +4916,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-Quick_Tote/refs/heads/main/assets/POP-Up_UI.png",
       "settings": "./QuickToteSettings.qml",
       "type": "widget",
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/gnk95mfz1rxkz1h0lcl1pz3jprvqflkr-DMS-Quick_Tote",
-    "rev": "c7fdea6d959254d8548eff2135969284c82debb3",
+    "path": "/nix/store/76vhhxil7y50i210xzsk0xayi8pzl28i-DMS-Quick_Tote",
+    "rev": "1c968655b84e53b18b1b91b2ef40bfcf3ab60b36",
     "rootDir": "",
-    "sha256": "0n6k0snmp0qjc9q89cx9rks53w306xxxxhk6wsbidswrgmmrsp8d",
+    "sha256": "184h62vsi5b24k5k35ysdg11lwagghk5zwpppw1bima4jc6dm3x7",
     "url": "https://github.com/JDKamalakar/DMS-Quick_Tote"
   },
   "quranWidget": {
@@ -5584,12 +5584,12 @@
     "url": "https://github.com/fdmarcin/TimeUntil"
   },
   "timer": {
-    "date": "2026-05-29T12:59:26+07:00",
+    "date": "2026-05-30T12:19:21+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-uzOFmfq3cjfBGSl/4AyhVwe0TrVpB3l1e0La8e3D2Vc=",
+    "hash": "sha256-3bVgZppDMQds8OcU9YEh9f+c/htlvYlGYtaaJjT75cE=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -5614,10 +5614,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-timer/master/screenshot.png",
       "version": "2.3.0"
     },
-    "path": "/nix/store/3p7116kw7gb9cpfy8irhibkkzd1vd51a-dms-timer",
-    "rev": "9448199a46bb458e880dd6a8fff574d264f4f901",
+    "path": "/nix/store/jr1jb6p3dxifcmk0xsl3h0gvl62bhzhd-dms-timer",
+    "rev": "594941ab404e383bb09b42904727a36b9f38829d",
     "rootDir": "",
-    "sha256": "0myrqgnz3nj2gdspj1v9nm7b81spl46f0zr9370kfwmpzacqacxv",
+    "sha256": "1hg5zcs2d6nnc938kgb53gz9rzzm460za577y1n0fca3k9k61dfx",
     "url": "https://github.com/hthienloc/dms-timer"
   },
   "trashBin": {
