@@ -562,12 +562,12 @@
     "url": "https://github.com/psyreactor/dms-awcc"
   },
   "bongoCat": {
-    "date": "2026-06-02T22:43:51+07:00",
+    "date": "2026-06-03T18:26:20+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Q0Sct9i+neo2okVXSqIDqiQkh1zi9S1gCY7Ndkby9Oo=",
+    "hash": "sha256-M6c6Oe/wJ4E4IuPibPNHJvrBLDJuENFHAngXsnU8VkQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -591,10 +591,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-bongo-cat/main/screenshot.png",
       "version": "2.0.1"
     },
-    "path": "/nix/store/5wr9pi1vyyl2j30rx1d0gwcslf0ndlf3-dms-bongo-cat",
-    "rev": "719a53f5426aa973711ecfe20af96f4ba04f7abe",
+    "path": "/nix/store/r11kkhyrjzay49l8qsv8azyqrzhjy7bn-dms-bongo-cat",
+    "rev": "ff865231a8d4113c93b3e4673133aff5153a644d",
     "rootDir": "",
-    "sha256": "1sply937dkcf15h2vxg2bj3j895a0fi4lms5l8vfm7dyv2vrqi23",
+    "sha256": "0i2n7isv45vq093x243f68nc3yi68zrnrqp348w829zhxwwkm9rk",
     "url": "https://github.com/hthienloc/dms-bongo-cat"
   },
   "breathing": {
@@ -3019,12 +3019,12 @@
     "url": "https://github.com/merdely/dms-plugins"
   },
   "floaty": {
-    "date": "2026-06-02T22:43:52+07:00",
+    "date": "2026-06-04T09:31:59+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-oCljxEqFrMNp7883RT/0KuIL2kqFQHFeGQ/An6NFZe0=",
+    "hash": "sha256-W7nsqHe2rZ7KcMFP+6CPja7he1h7DDSS8KgECN87k3I=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -3049,10 +3049,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-floaty/main/screenshot.png",
       "version": "2.0.0"
     },
-    "path": "/nix/store/ng4cvlv83qhl4yz5904qhp0bivx8b414-dms-floaty",
-    "rev": "9a7f7fe63e34aab720f4a464a13ec8315c94fe40",
+    "path": "/nix/store/a8rnjnpr0zh52mm4yhsqg063bzvv9ir0-dms-floaty",
+    "rev": "d80a9d790db713e2b0e68424ebd3c033f65b83a6",
     "rootDir": "",
-    "sha256": "1vb58nirzh0g35g72h459bd0pqiayhzladygxxlw7b459b266ad0",
+    "sha256": "0wlk7gghh158y293833vb1xy3bldiyhgnky1f359xbdnfylfrfav",
     "url": "https://github.com/hthienloc/dms-floaty"
   },
   "formatColorPicker": {
