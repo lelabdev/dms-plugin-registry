@@ -562,12 +562,12 @@
     "url": "https://github.com/psyreactor/dms-awcc"
   },
   "bongoCat": {
-    "date": "2026-06-14T08:34:53+07:00",
+    "date": "2026-06-14T23:03:42+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Mb33VdwCJMwAjbzpJ+2hfaw/49v7lT46Pcq36FzPN+U=",
+    "hash": "sha256-SGZ2KdC/C4pKNCtt7N/pZrR0MNETGpdTj1BW8rplvyc=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -591,10 +591,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-bongo-cat/main/screenshot.png",
       "version": "2.2.0"
     },
-    "path": "/nix/store/s3kpa34llh9dh8b2984szzwrrvpqdibd-dms-bongo-cat",
-    "rev": "998aa90a0004f21754e6b88e1eb10fdd786e2596",
+    "path": "/nix/store/970aa84irqfwn7d81gz197ws8bwkr86d-dms-bongo-cat",
+    "rev": "16238e241329d14265056422fc90149c1372695a",
     "rootDir": "",
-    "sha256": "1r9prxffidya7lx3x5gvvgikzb3xl7njgsdwil0cq902viazgg9i",
+    "sha256": "09xzcnxg4mjhix9rf6hks4q79d36x7gyqv9b6i58l2xzs0lpcrj8",
     "url": "https://github.com/hthienloc/dms-bongo-cat"
   },
   "breathing": {
@@ -2237,12 +2237,12 @@
     "url": "https://github.com/xxyangyoulin/dms-plugin-developer-utilities"
   },
   "discordVoice": {
-    "date": "2026-05-02T22:37:53-07:00",
+    "date": "2026-06-14T08:21:18-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Vca++G6iAG0FtxrO/9/0tyzQo9b9q+MZT2KcrwOx8Sg=",
+    "hash": "sha256-o34Y5RO1kKzZnshNCNOfJUuIrS96bs/uagCOa+/Kbik=",
     "leaveDotGit": false,
     "meta": {
       "author": "PandorasFox",
@@ -2268,10 +2268,10 @@
       "screenshot": "https://raw.githubusercontent.com/PandorasFox/dms-discord-widget/master/screenshot.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/mpf5j858vyq1ya8ib8k1mvf8fvan68x9-dms-discord-widget",
-    "rev": "8f282df7ba7ffd625144ffeb9951f07fd7f79711",
+    "path": "/nix/store/b95pqcrdkvy99lizfw16fc6j0p7m9llv-dms-discord-widget",
+    "rev": "fb29a6021d10d7cbd96c05484ee334f8db29739c",
     "rootDir": "",
-    "sha256": "0a7in41sz7329wcy7azxssix0b5pykgzzkhsnw2ns052dvwbxijm",
+    "sha256": "0abfrbpnp3h0dbpcyvks5ynqhjr5kz9hhkf8kvcsr45m2gjihzm3",
     "url": "https://github.com/PandorasFox/dms-discord-widget"
   },
   "displayManager": {
@@ -4481,12 +4481,12 @@
     "url": "https://github.com/kmf/dms-obsidian-search"
   },
   "ocrScanner": {
-    "date": "2026-06-06T22:32:25+07:00",
+    "date": "2026-06-15T08:45:04+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-de3SA+Q955aOcl6iYToFBX0xzl1fL2uYQwSdKzNzmkI=",
+    "hash": "sha256-IDSN7pFGzAFd6izC/pWwD41PfPtlblNkrLQAVcHZU5g=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4512,10 +4512,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ocr-scanner/main/screenshot.png",
       "version": "2.0.0"
     },
-    "path": "/nix/store/ihsxwih0lna3jgb6qw50cp09ilc2wvss-dms-ocr-scanner",
-    "rev": "7e0dc5544ae68659f351e258ddfbc022c786e608",
+    "path": "/nix/store/lrx7zsknnhd3j74mpfhyk1c512mighiw-dms-ocr-scanner",
+    "rev": "bec1be8843d561706bca4128f6abb8e262a37c61",
     "rootDir": "",
-    "sha256": "0hlsfcrjp7848fc6nbszbp732z850lx638jyfa79drrxwh1x5vbm",
+    "sha256": "162kv70ma05lmij56vk5zdy4z38gn2azxhicx9fh3k26j7p8sd10",
     "url": "https://github.com/hthienloc/dms-ocr-scanner"
   },
   "pangolinWidget": {
