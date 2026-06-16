@@ -4481,12 +4481,12 @@
     "url": "https://github.com/kmf/dms-obsidian-search"
   },
   "ocrScanner": {
-    "date": "2026-06-15T08:45:04+07:00",
+    "date": "2026-06-15T19:55:49+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-IDSN7pFGzAFd6izC/pWwD41PfPtlblNkrLQAVcHZU5g=",
+    "hash": "sha256-SX3Fv3cdLIy8akfyRpSL9kzOd3J414PWmkGRSh0Gj4Y=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4512,10 +4512,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ocr-scanner/main/screenshot.png",
       "version": "2.0.0"
     },
-    "path": "/nix/store/lrx7zsknnhd3j74mpfhyk1c512mighiw-dms-ocr-scanner",
-    "rev": "bec1be8843d561706bca4128f6abb8e262a37c61",
+    "path": "/nix/store/myipvd7a37zjg71abm1cn5af74z2f17p-dms-ocr-scanner",
+    "rev": "86eae7fe7f0dfe3fdf607b733223fcd540ada1dc",
     "rootDir": "",
-    "sha256": "162kv70ma05lmij56vk5zdy4z38gn2azxhicx9fh3k26j7p8sd10",
+    "sha256": "11lg0qflm4a1kbb87mvqf9vwwk7nifa4dwj7day8qb0xfyzwaza9",
     "url": "https://github.com/hthienloc/dms-ocr-scanner"
   },
   "pangolinWidget": {
@@ -4843,12 +4843,12 @@
     "url": "https://github.com/szabolcsf/dms-qcal-calendar"
   },
   "qrGenerator": {
-    "date": "2026-06-13T23:48:14+07:00",
+    "date": "2026-06-15T12:14:31+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-N9LowvzBhcAdwimp4BDQmwIHidjJz1g8oVquoOH7t0I=",
+    "hash": "sha256-SiY0nGefjWm2q0zGIgU6FLJLugduTcMuFviRnW2FxaU=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4873,10 +4873,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-qr-generator/master/screenshot.png",
       "version": "1.3.0"
     },
-    "path": "/nix/store/q8ydknxprigzc05dmzv6n23433fv89yd-dms-qr-generator",
-    "rev": "f812c7fb45a208dafb3b599518a78e01044d567c",
+    "path": "/nix/store/siaa689c1h6azlwqrwwpc9mim2355g32-dms-qr-generator",
+    "rev": "9d6fea559a0a345b2329d99fbc78096778f00c28",
     "rootDir": "",
-    "sha256": "0hmpzghs1bjsl4y5iky9v24hf0lvs08f1a99q8fw11f1zk1filip",
+    "sha256": "19f5hmnrv4gq2qpc6kbf0yx4pchl782j5ijcmfv6k3czcyf389ja",
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickTote": {
