@@ -79,12 +79,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-06-12T16:04:20-03:00",
+    "date": "2026-06-18T17:53:35-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-+2ieP6C3RNXz0N+VTZXKSD+vR7wCbTS91qz1QWG0mTw=",
+    "hash": "sha256-+uZUp16AyglWikWg5TX76hX5HvubbGy744G6/beRRNk=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -108,12 +108,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.4.2"
+      "version": "1.4.4"
     },
-    "path": "/nix/store/h3iyqhzi7lc3xdlg891p1k063gilhday-AiOverviewControl",
-    "rev": "9b80e67777b9ba565b4ae338df8f64a586674a13",
+    "path": "/nix/store/ncwk0mifx7xwf03diqcgflqgl3g3q1wx-AiOverviewControl",
+    "rev": "252f94c8b4aea6541b5f459dfe115443973b8494",
     "rootDir": "",
-    "sha256": "0g4rnihl3xdcssyk8v82pi3sygs8raalv5fzs3rxai5pl0zrws7v",
+    "sha256": "1na4j6vzvfl1wfxnqv4vzcggj5gazcsyb825i9b0kjl0bskm9rps",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -4843,12 +4843,12 @@
     "url": "https://github.com/szabolcsf/dms-qcal-calendar"
   },
   "qrGenerator": {
-    "date": "2026-06-15T12:14:31+07:00",
+    "date": "2026-06-18T11:57:34+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-SiY0nGefjWm2q0zGIgU6FLJLugduTcMuFviRnW2FxaU=",
+    "hash": "sha256-QCFQrpwqKM5ECxiFoRSmxowqMMP5zQabmniWzZfEclc=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -4873,10 +4873,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-qr-generator/master/screenshot.png",
       "version": "1.3.0"
     },
-    "path": "/nix/store/siaa689c1h6azlwqrwwpc9mim2355g32-dms-qr-generator",
-    "rev": "9d6fea559a0a345b2329d99fbc78096778f00c28",
+    "path": "/nix/store/mfbpifwpsm3d53314yjj0pm6pwddpz1m-dms-qr-generator",
+    "rev": "5c3bf9798154ea9a55acca8001ba6ef49ce4e6e9",
     "rootDir": "",
-    "sha256": "19f5hmnrv4gq2qpc6kbf0yx4pchl782j5ijcmfv6k3czcyf389ja",
+    "sha256": "0mvjqjbwv5kqkadhdkgrqcq2m366lqaa318q1d2cwa1akjp508a0",
     "url": "https://github.com/hthienloc/dms-qr-generator"
   },
   "quickTote": {
