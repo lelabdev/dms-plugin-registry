@@ -79,12 +79,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-06-18T17:53:35-03:00",
+    "date": "2026-06-19T02:01:00-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-+uZUp16AyglWikWg5TX76hX5HvubbGy744G6/beRRNk=",
+    "hash": "sha256-QhjOwT3iBsTZCi59DUsxy0rnXPzH8VCeLpY/m6AwZBY=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -108,12 +108,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.4.4"
+      "version": "1.4.5"
     },
-    "path": "/nix/store/ncwk0mifx7xwf03diqcgflqgl3g3q1wx-AiOverviewControl",
-    "rev": "252f94c8b4aea6541b5f459dfe115443973b8494",
+    "path": "/nix/store/wx28h467lvnqq9kdny4liq2ggn00406j-AiOverviewControl",
+    "rev": "8779d3d7a7df1d3fe9de703c6b2c072e4e603c4f",
     "rootDir": "",
-    "sha256": "1na4j6vzvfl1wfxnqv4vzcggj5gazcsyb825i9b0kjl0bskm9rps",
+    "sha256": "05k462h9ngwn5sg51wf7zifffjnb655hsz9f1bcw81p27p0ww622",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -191,12 +191,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "ambientSound": {
-    "date": "2026-06-06T10:02:18+07:00",
+    "date": "2026-06-20T00:00:28+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-cCGoZjJ1pcFO5RnBQdNEh7Y2QxydtGUH/S+WiyMfmlc=",
+    "hash": "sha256-uHPPeEYc5ix9EIBBsEHlle7QdGDZqv7aG/A/22Y+CSQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -219,12 +219,12 @@
       "name": "Ambient Sound",
       "repo": "https://github.com/hthienloc/dms-ambient-sound",
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-ambient-sound/master/screenshot.png",
-      "version": "2.1.0"
+      "version": "2.2.0"
     },
-    "path": "/nix/store/7q1dfy6mk52v0mj77scbsg3v24fhnqil-dms-ambient-sound",
-    "rev": "4da676a6470ce7303cc15a0cafab43bc870b984b",
+    "path": "/nix/store/xc954arws12xff080i5rbzxh2p7gmac3-dms-ambient-sound",
+    "rev": "5ddf16c151450029d352eedb70d811439c1d51d2",
     "rootDir": "",
-    "sha256": "0mws3wiqp5igzl3nbd4x3i1kddl78k9l3h8rwm7c39bm69kah8bh",
+    "sha256": "09097rkdngzh3gdgxanrc1sd1vlmwm0v0hc021yjrrhw8rwcywxq",
     "url": "https://github.com/hthienloc/dms-ambient-sound"
   },
   "amdGpuMonitor": {
