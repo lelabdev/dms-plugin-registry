@@ -1945,12 +1945,12 @@
     "url": "https://github.com/NordicsSys/DankSystemDoctor"
   },
   "dankTodo": {
-    "date": "2026-04-23T14:45:47+02:00",
+    "date": "2026-06-29T12:29:29+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-PkjfBtfenenvGBrbapC13d36Ezl8g3DWIAaVBFc4XEM=",
+    "hash": "sha256-zX9rtJwq5KyXHG55bQXbV7osAMHTkL9l7qSRqEgh6kI=",
     "leaveDotGit": false,
     "meta": {
       "author": "Deepu K Sasidharan",
@@ -1972,10 +1972,10 @@
       "screenshot": "https://raw.githubusercontent.com/deepu105/dms-dank-todo/main/screenshot.png",
       "version": "1.2.0"
     },
-    "path": "/nix/store/mpady5lc88rlyjzl38kxrlvvz58glzjv-dms-dank-todo",
-    "rev": "5a1db7e8a33c09aedbf325ba71d9c8bda2a5e54f",
+    "path": "/nix/store/649c4y85hcqhhlbwqym8y2rgbj2zfc3f-dms-dank-todo",
+    "rev": "ff1b82c3061fce3c32c8f65792fa81b928ab35d1",
     "rootDir": "",
-    "sha256": "0hsw71bh958643b710vw749zmpfxnn86mnqs33pyk7fysw3dyj1y",
+    "sha256": "0hpa454ai4d4xrjvz46kq402rfjpvc2nsybf3jbsrr1akjs6nzyd",
     "url": "https://github.com/deepu105/dms-dank-todo"
   },
   "dankTranslate": {
