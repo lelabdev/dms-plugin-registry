@@ -6019,12 +6019,12 @@
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
   },
   "weatherArt": {
-    "date": "2026-05-31T13:35:05-07:00",
+    "date": "2026-07-01T14:00:26-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-7ch4aiurIe2GKYmOElaQ/hluaXjzPl1Kc6r+bUSw990=",
+    "hash": "sha256-L3S2z7QqEzisocADeyYKJt5h+u9aanPqRxW6w7q4pW8=",
     "leaveDotGit": false,
     "meta": {
       "author": "viewerofall",
@@ -6047,10 +6047,10 @@
       "screenshot": "https://raw.githubusercontent.com/viewerofall-labs/weather-viewer/main/weather.png",
       "version": "0.1.0"
     },
-    "path": "/nix/store/6954zc0503d14yfiy9sgha8bxsb8dafv-weather-viewer",
-    "rev": "bdf2eae7ff2123377e25e4325c4d2c96107941c7",
+    "path": "/nix/store/j5dipvnrnb4knbpd57lb0m7gj23vwihr-weather-viewer",
+    "rev": "e5cb2512cf2c38f92c10c4670c167b5d90f8b863",
     "rootDir": "",
-    "sha256": "1pgpn126vzmafd55sgpkg1lnw6gyj1b153l9563fs8db5dm7ij7d",
+    "sha256": "0vx5p2xc7fhm8zm76sjsxzx63pi618k7n0y0l6n3h4rank7vcx1g",
     "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
   "webSearch": {
