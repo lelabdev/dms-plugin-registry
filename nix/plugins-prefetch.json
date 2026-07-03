@@ -79,12 +79,12 @@
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
-    "date": "2026-06-28T19:56:46-03:00",
+    "date": "2026-07-02T01:21:40-03:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-JfE+rwnhIzMW+X93AEcZBMM4KVT3OiJ1vzJhB6YUGd8=",
+    "hash": "sha256-RTH2eaNqNl9RcDGAzjPxsj1rAVjF9ykTQf6Mwq2Urnc=",
     "leaveDotGit": false,
     "meta": {
       "author": "Bernardo Gomes",
@@ -108,12 +108,12 @@
       "name": "AiOverviewControl",
       "repo": "https://github.com/bernardopg/AiOverviewControl",
       "screenshot": "https://raw.githubusercontent.com/bernardopg/AiOverviewControl/main/screenshot.png",
-      "version": "1.5.0"
+      "version": "1.6.0"
     },
-    "path": "/nix/store/xhs974x05pn67phhc1jdp07jhdk06a2y-AiOverviewControl",
-    "rev": "b62241b299bfe90fb22aa95abb769cf9d233180c",
+    "path": "/nix/store/iv2fgj3lq3fhp2i8jqymyz0bipxvikly-AiOverviewControl",
+    "rev": "c33c149274bf583af2379a60f8be4f8fe0c60892",
     "rootDir": "",
-    "sha256": "1pqr2jk0fq9jpxsj4fppahlkihq4353h0xvzz4b368z116pkxw95",
+    "sha256": "0xxfjjnw537y849jkxy5b00nngdjy4rwx01if18mydkaldwzcca5",
     "url": "https://github.com/bernardopg/AiOverviewControl"
   },
   "airQuality": {
@@ -562,12 +562,12 @@
     "url": "https://github.com/psyreactor/dms-awcc"
   },
   "bongoCat": {
-    "date": "2026-06-18T06:58:12+07:00",
+    "date": "2026-07-02T12:58:10+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-8aloljgD/oqa89E+CsrgRQKYbImfMI4tulM/XfLidoo=",
+    "hash": "sha256-WM/T8+V0nwCWFtkEjTWYYcUslRER0OJXSavChcoxSKw=",
     "leaveDotGit": false,
     "meta": {
       "author": "Loc Huynh",
@@ -591,10 +591,10 @@
       "screenshot": "https://raw.githubusercontent.com/hthienloc/dms-bongo-cat/main/screenshot.png",
       "version": "2.3.0"
     },
-    "path": "/nix/store/0lhpqjnyhagq5bjfx87lfw4arh2fid1h-dms-bongo-cat",
-    "rev": "e99c1e3faab64aa3d689429dc85966d2bcdb2bbb",
+    "path": "/nix/store/43df8l0dqhcbxhvk05p9vigv6k5bfrrk-dms-bongo-cat",
+    "rev": "0b4aa0b3271b2310c60cdaed1f521ab22bea477b",
     "rootDir": "",
-    "sha256": "12knwbr5sgskp8nqwc4zi5n9h0j5w350lgniyfd8mzh372b6iagi",
+    "sha256": "1b286758bhmb95by5l0i26ajrib1k0sqs16r2sb017vlwprx7ksq",
     "url": "https://github.com/hthienloc/dms-bongo-cat"
   },
   "breathing": {
@@ -1180,12 +1180,12 @@
     "url": "https://github.com/pacman99/DankBitwarden"
   },
   "dankCalendar": {
-    "date": "2026-06-04T16:17:05+02:00",
+    "date": "2026-07-02T22:06:27+02:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-+LZpUz5uQTJkvlW3Vv3qKaFqIBPPZenFhEX4CPlzMjI=",
+    "hash": "sha256-obgQOpHScJ1uN21QuPIFTEVgTpDAUxblP77+4Tu3T5k=",
     "leaveDotGit": false,
     "meta": {
       "author": "alcxyz",
@@ -1208,12 +1208,12 @@
       "name": "DankCalendar",
       "repo": "https://github.com/alcxyz/DankCalendar",
       "screenshot": "https://raw.githubusercontent.com/alcxyz/DankCalendar/main/docs/screenshot.png",
-      "version": "0.5.0"
+      "version": "0.6.0"
     },
-    "path": "/nix/store/mk57x8d254s7xn496qf2bk8hgnr4gg54-DankCalendar",
-    "rev": "bce516c9898429618af38a94593864e4ea9041d7",
+    "path": "/nix/store/fqjb2sprrh8yayfmyz4jikb8az41szdy-DankCalendar",
+    "rev": "0231693cbaf81a995147364a16eec623cb1233f4",
     "rootDir": "",
-    "sha256": "0cijfgwhiy25hk2yjrfg2ch6m899xbymddsmprj34hbf7r9nkdpq",
+    "sha256": "16agnwxy3zmy7zjicly0j1760iac0prbhl3d6xp9sw6jj4x11f51",
     "url": "https://github.com/alcxyz/DankCalendar"
   },
   "dankCleaner": {
@@ -6019,12 +6019,12 @@
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
   },
   "weatherArt": {
-    "date": "2026-07-01T14:00:26-07:00",
+    "date": "2026-07-02T11:42:56-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-L3S2z7QqEzisocADeyYKJt5h+u9aanPqRxW6w7q4pW8=",
+    "hash": "sha256-gg00rVoftBlGdfpo7M/XneMMdwfi4Yakm0a6Xmqktoo=",
     "leaveDotGit": false,
     "meta": {
       "author": "viewerofall",
@@ -6047,10 +6047,10 @@
       "screenshot": "https://raw.githubusercontent.com/viewerofall-labs/weather-viewer/main/weather.png",
       "version": "0.1.0"
     },
-    "path": "/nix/store/j5dipvnrnb4knbpd57lb0m7gj23vwihr-weather-viewer",
-    "rev": "e5cb2512cf2c38f92c10c4670c167b5d90f8b863",
+    "path": "/nix/store/7qj932haqmnissw9zbp7akdafwbkvhr1-weather-viewer",
+    "rev": "e942bc84580fb44e7f4aec9fc0ea29d345c9dcfe",
     "rootDir": "",
-    "sha256": "0vx5p2xc7fhm8zm76sjsxzx63pi618k7n0y0l6n3h4rank7vcx1g",
+    "sha256": "12mnlim5xfj6kfj8dqg20xvhrqwxsz7yqs7sfm31kd0zbank83c2",
     "url": "https://github.com/viewerofall-labs/weather-viewer"
   },
   "webSearch": {
