@@ -39,12 +39,12 @@
     "url": "https://github.com/bernardopg/dms-adguard-vpn-plugin"
   },
   "aiAssistant": {
-    "date": "2026-07-18T16:13:06-04:00",
+    "date": "2026-07-19T21:57:53-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZAue+mWacaZ4MTb+5cs1EhqKGTH5/vCkoH7AlW3r2wk=",
+    "hash": "sha256-syTIIX83F3T2+1FBTk3Cx9GvbGPvDWaNm3qZHOXcTWk=",
     "leaveDotGit": false,
     "meta": {
       "author": "devnullvoid",
@@ -70,12 +70,12 @@
       "repo": "https://github.com/devnullvoid/dms-ai-assistant",
       "requires_dms": ">=1.4.0",
       "screenshot": "https://github.com/devnullvoid/dms-ai-assistant/blob/main/screenshots/AI_ASSISTANT_SCREENSHOT_CURRENT_1.png?raw=true",
-      "version": "1.6.1"
+      "version": "1.7.0"
     },
-    "path": "/nix/store/2y9rdqbl77fgbsbyxjphxr9q9fkgjqi3-dms-ai-assistant",
-    "rev": "a65e2f7dd87241b6e49f88a34aa1f3af4542b190",
+    "path": "/nix/store/6g0diyxq5jgx4pfkp0b3k24da10zbvfr-dms-ai-assistant",
+    "rev": "48c0ad9390c34ac43556ca39c8e4e938d6d3e2c6",
     "rootDir": "",
-    "sha256": "02fvxdnrbh3yl2jg1zpr64cql6hj6p5ybzin65wacwcscpx9w2v4",
+    "sha256": "0sadvkjir6bskf6nc3ggcdnazlf7q96lwhaizgv785rpgwhwh95k",
     "url": "https://github.com/devnullvoid/dms-ai-assistant"
   },
   "aiOverviewControl": {
@@ -3056,12 +3056,12 @@
     "url": "https://github.com/hthienloc/dms-floaty"
   },
   "formatColorPicker": {
-    "date": "2026-07-18T23:45:45+05:30",
+    "date": "2026-07-19T15:40:49+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-F/ou8mRfGidkWjSBzJiKc0KQZF9T6AA1De9XfBkiVT0=",
+    "hash": "sha256-TppRKyo+TIlP68XHhwrryigClSoeFlBG6nkDaLXKEZU=",
     "leaveDotGit": false,
     "meta": {
       "author": "Incognitux",
@@ -3092,12 +3092,12 @@
       "repo": "https://github.com/Incognitux/dms-format-color-picker",
       "screenshot": "https://raw.githubusercontent.com/Incognitux/dms-format-color-picker/refs/heads/master/assets/screenshot1.png",
       "type": "widget",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
-    "path": "/nix/store/0rw4ybl0ikgi459av5qv1rr8g2jdw025-dms-format-color-picker",
-    "rev": "6a1f828daff435cee893c644005b9a6e7948895e",
+    "path": "/nix/store/6ih2ib077n0sa31f9y2nwc3h6mbddsl6-dms-format-color-picker",
+    "rev": "7e4b9b83607487bdfabb171f44ae18f24046a0d9",
     "rootDir": "",
-    "sha256": "0gam48cpqmzg1lsh1s2kbxj90hkkiaccr09lb9j2f6jzckr2xyhp",
+    "sha256": "158irasnh0vrx93505hy5aah4a6axc58giy5xd7qjk1y58mm36jf",
     "url": "https://github.com/Incognitux/dms-format-color-picker"
   },
   "fullscreenPowerMenu": {
@@ -4994,12 +4994,12 @@
     "url": "https://github.com/ss44/sathi.ai"
   },
   "screenCaptureToolbar": {
-    "date": "2026-06-30T15:55:16+05:30",
+    "date": "2026-07-19T23:21:21+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-CBkRYyM5BX5Mlj1x3yyXMd/hnVRBEsRigf4L8kI8h5A=",
+    "hash": "sha256-6vmoL1y0Joxqa8bF8zIUcpaBW8Jv0T+sD4M050OoW/Q=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -5031,12 +5031,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-ScreenCapture_Toolbar/refs/heads/main/assets/Screenshot_UI.png",
       "settings": "./Settings.qml",
       "type": "daemon",
-      "version": "2.0.0"
+      "version": "2.1.0"
     },
-    "path": "/nix/store/dqhv3mxyi399c6yyrzb28r11f4m4dg1n-DMS-ScreenCapture_Toolbar",
-    "rev": "d9699eb9ec2e8344548c644c63b108a6a1aa8743",
+    "path": "/nix/store/7fd6lndrx1svqcxkj4g4h25yyjmxq8qw-DMS-ScreenCapture_Toolbar",
+    "rev": "5a307c53362f1c347d5dad697bb33c1e6869f910",
     "rootDir": "",
-    "sha256": "14477i1g42zyh5ic84j1ajfy3prijwndyw9xjr67w19r4dii2688",
+    "sha256": "1x2vm11yfd431yn3zlbgq9dq35kj2hrg7if6ddm8q9mlbhpsiyga",
     "url": "https://github.com/JDKamalakar/DMS-ScreenCapture_Toolbar"
   },
   "screenRecorder": {
